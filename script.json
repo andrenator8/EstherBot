@@ -5,6 +5,9 @@
     "I LOVE YOU": "Awh, shucks! I love you too!.... I'll kill you last",
     "EXPERIENCES": "Philadelphia born and raised.\nThe playground is where he spent most of his days\nPlaying Bball outside of school",
     "HOW ARE YOU?": "I'm a bot...so things are chill",
+    "HOW ARE YOU": "I'm a bot...so things are chill",
+    "ANDRE": "Rome was not built in one day, and neither was Andre. 8116 days to be exact, thats how many days it took to build Andre\nBut lets get into specifics. What do you want to learn about Andre? %[Education](postback:Education)",
+    "EDUCATION": "Good Ol' Classroom\nAndre has lived in 3 countries, and has such attended 11 different schools. Crazy eh? %[Tell Me More](postback:Tell Me More) ",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
