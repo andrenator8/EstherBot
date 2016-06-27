@@ -8,6 +8,9 @@
     "HOW ARE YOU": "I'm a bot...so things are chill",
     "ANDRE": "Rome was not built in one day, and neither was Andre. 8116 days to be exact, thats how many days it took to build Andre\nBut lets get into specifics. What do you want to learn about Andre? %[Education](postback:Education)",
     "EDUCATION": "Good Ol' Classroom\nAndre has lived in 3 countries, and has such attended 11 different schools. Crazy eh? %[Tell Me More](postback:Tell Me More) ",
+    "TELL ME MORE": "Lets get into it! %[Childhood](postback:Childhood) %[Goals](postback:Goals)",
+    "CHILDHOOD": "Da Hoood",
+    "GOALS": "Gooalllss",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
