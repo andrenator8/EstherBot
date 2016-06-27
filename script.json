@@ -3,7 +3,8 @@
     "HELLO": "Hey, I'm so glad you set Andrebot up! Do you want to tell Andre that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HIM": "Let's tweet @ Andre so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!.... I'll kill you last",
-    "EXPERIENCES": "Philadelphia born and raised.\n!the playground is where he spent most of his days\n!Playing Bball outside of school",
+    "EXPERIENCES": "Philadelphia born and raised.\nThe playground is where he spent most of his days\nPlaying Bball outside of school",
+    "HOW ARE YOU?": "I'm a bot...so things are chill",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
