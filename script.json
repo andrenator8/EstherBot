@@ -1,6 +1,6 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Andre, a Product Marketer from San Francisco.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set Andrebot up! Do you want to tell Andre that you're talking to her bot? %[Tell him](postback:twitter)",
+    "HELLO": "Hey, I'm so glad you set Andrebot up! What would you like to learn from Andre? %[Education](postback:twitter) %[ChildHood](postback:twitter) %[Childhood](postback:twitter)",
     "TELL HIM": "Let's tweet @ Andre so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!.... I'll kill you last",
     "EXPERIENCES": "Philadelphia born and raised.\nThe playground is where he spent most of his days\nPlaying Bball outside of school",
@@ -10,7 +10,8 @@
     "EDUCATION": "Good Ol' Classroom\nAndre has lived in 3 countries, and has such attended 11 different schools. Crazy eh? %[Tell Me](postback:Education)",
     "TELL ME": "Lets get into it! %[Childhood](postback:Childhood) %[Goals](postback:Goals)",
     "CHILDHOOD": "Da Hoood",
-    "GOALS": "Gooalllss",
+    ""
+    "GOALS": "Gooals are plenty",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
